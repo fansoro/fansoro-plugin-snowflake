@@ -9,9 +9,9 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 
 ## Options
 
-| name  | value |
-|---|---|
-| enabled | true (or `false` to disable the plugin) |
+| name  | value | description |
+|---|---|---|
+| enabled | true | or `false` to disable the plugin |
 
 For each element (for e.g. `document`) you can set individual options
 
