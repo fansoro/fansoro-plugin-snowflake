@@ -17,7 +17,7 @@ For each element (for e.g. `document`) you can set individual options
 
 | name  | value |
 |---|---|
-| selector | "documentation" |
+| selector | "document" |
 | flake_count | 250 (Snowflake Count) |
 | flake_color | "#fff" (Snowflake Color) |
 | flake_index | 999999 (Snowflake z-index) |
