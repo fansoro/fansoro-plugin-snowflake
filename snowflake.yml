@@ -1,0 +1,28 @@
+name: Snowflake
+version: 1.0.0
+description: "Snowflake generator plugin for Morfy allow to generate snow for any element on your page"
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-snowflake
+bugs: https://github.com/morfy-cms/morfy-plugin-snowflake/issues
+license: MIT
+
+# Plugin settings
+enabled: true
+elements:
+  document:
+    selector: "document"
+    flake_count: 250
+    flake_color: "#fff"
+    flake_index: 999999
+    min_size: 1
+    max_size: 8
+    min_speed: 1
+    max_speed: 5
+    round: "true"
+    shadow: "false"
+    collection: "false"
+    collection_height: 40
+    deviceorientation: "false"

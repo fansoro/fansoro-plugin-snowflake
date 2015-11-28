@@ -1,7 +1,7 @@
 # Snowflake
 ![Snowflake](snowflake.gif)
 
-Snowflake generator plugin for Morfy
+Snowflake generator plugin for Morfy allow to generate snow for any element on your page.
 
 ## Installation
 See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
