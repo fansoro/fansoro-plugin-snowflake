@@ -1,12 +1,12 @@
 name: Snowflake
 version: 1.0.0
-description: "Snowflake generator plugin for Morfy allow to generate snow for any element on your page"
+description: "Snowflake generator plugin for Fansoro allow to generate snow for any element on your page"
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-snowflake
-bugs: https://github.com/morfy-cms/morfy-plugin-snowflake/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-snowflake
+bugs: https://github.com/fansoro/fansoro-plugin-snowflake/issues
 license: MIT
 
 # Plugin settings

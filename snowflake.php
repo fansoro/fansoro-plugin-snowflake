@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Snowflake Plugin
+ * Fansoro Snowflake Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *
